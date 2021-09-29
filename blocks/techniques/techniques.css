@@ -1,7 +1,7 @@
-.techniques{
-    width: 80%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 100px auto 0 auto;
+.techniques {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 100px auto 0 auto;
 }
